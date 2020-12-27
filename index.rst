@@ -585,7 +585,7 @@ Sample Android Chat App
 Bonus for Developers
 =============================================================================
 In addition to the massive savings on marketing and infrastructure costs, the platform also offers
-multiple other Rest APIs dor developers looking to build deeply personalized chatbots:
+multiple other Rest APIs for developers looking to build deeply personalized chatbots:
 
 * Rich Messaging Support via On Demand Messaging API
 * Deep Personalization via Tagging API
